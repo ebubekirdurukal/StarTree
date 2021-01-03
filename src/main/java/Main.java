@@ -1,7 +1,16 @@
 import java.util.Scanner;
 
 public class Main {
-
+    /**
+     * StartTree Project for Testinium
+     *
+     * Created by ebubekir
+     *
+     * @author Ebubekir Durukal
+     * @version 1.0
+     * @since 3/01/2021
+     *
+     */
 
     public static void main(String[] args) {
         printSomeTree();
